@@ -1,6 +1,7 @@
 # Predict_whether_employee_leave_using_Python_ANN_algorithm
 
 **INTRODUCTION**
+
 We're trying to predict whether an employee will leave based on various features such as number of projects they worked on, time spent at the company, last performance review, salary etc. The dataset has around 15,000 rows and 9 columns. The column we're trying to predict is called "left". It's a binary column with 0/1 values. The label 1 means that the employee has left.
 
 **Dataset Details**
